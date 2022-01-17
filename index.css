@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+}
+
+input {
+    flex-grow: 1;
+    margin-right: 8px;
+}
+
+ul {
+    list-style: none;
+    padding-inline-start: 0;
+    flex-grow: 1;
+}
+
+span {
+    flex-grow: 1;
+}
+
+li {
+    display: flex;
+    margin-bottom: 8px;
+}
